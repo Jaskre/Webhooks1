@@ -1,15 +1,3 @@
-# Webhooks1
 {
-  "embeds": [
-    {
-      "title": "{{Reddit}}",
-      "description": "[Link]({{https://www.reddit.com/r/popular/}})",
-      "image": {
-        "url": "{{ImageURL}}"
-      },
-      "footer": {
-        "text": "Author: {{Author}}"
-      }
-    }
-  ]
+  "content": "{{https://www.youtube.com/watch?v=pS-gbqbVd8c&list=RDeTa1jHk1Lxc&index=2}}"
 }
